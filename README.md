@@ -4,7 +4,7 @@
 
 ## About Me:
 
-- I am passionate about software testing and quality assurance.
+- I am Merlin Paulson, passionate about software testing and quality assurance.
 - Have 1.11 years of IT industry experience and possess Masters in Computer Application.
 - Currently in the process of mastering Software Testing.
 
