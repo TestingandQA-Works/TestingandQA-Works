@@ -4,10 +4,9 @@
 
 ## About Me:
 
-I am passionate about software testing and quality assurance.
-- 🌱 Currently in the process of mastering **Software Testing**
-- ⚡ Strong knowledge in **Java, TestNG, Apache Maven, Appium, Jira**
-- 💬 Feel free to ask me about anything; I'll do my best to help!
+- I am passionate about software testing and quality assurance.
+- Have 1.11 years of IT industry experience and possess Masters in Computer Application.
+- Currently in the process of mastering **Software Testing**
 
 ## Skills:
 - Knowledge in software development and testing process.
@@ -23,7 +22,15 @@ I am passionate about software testing and quality assurance.
 - Proactive in taking initiative to drive projects and collaborate effectively within the team.
 - Possess strong communication skills, attention to detail and problem-solving skills.
 - Strong emphasis on reliability, ensuring software quality and a passion to continuously improve testing process.  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/merlinpaulson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merlinpaulson" height="30" width="40" /></a>
-</p>
+## Familiar Technology Stack:
+- Java
+- PHP
+- Python
+- Eclipse IDE
+- Selenium
+- TestNG
+- Apache Maven
+- Appium
+- JMeter
+  
+  
