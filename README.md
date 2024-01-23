@@ -23,7 +23,7 @@
 - Possess strong communication skills, attention to detail and problem-solving skills.
 - Strong emphasis on reliability, ensuring software quality and a passion to continuously improve testing process.  
 
-## Technology Stack
+## Technology Stack:
 
 - **Languages:** Java, PHP, Python
 - **IDE:** Eclipse, Visual Studio Code
